@@ -3,6 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.255" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/drawable/ic_chair.xml" value="0.255" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/drawable/ic_unknown.xml" value="0.255" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_commondetails.xml" value="0.265625" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_login.xml" value="0.1897644927536232" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_login_and_signup.xml" value="0.265625" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_main.xml" value="0.265625" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_meal_plan.xml" value="0.265625" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_meal_plan_list.xml" value="0.264" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_mealplan_intro.xml" value="0.265625" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_mealplan_qlist.xml" value="0.264" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_risk_level_result_common.xml" value="0.1897644927536232" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_signup.xml" value="0.265625" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_stress_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/activity_suggestions.xml" value="0.1897644927536232" />
+        <entry key="..\:/Deshani Research/Rp final project/RP_frontend/RP_APP/app/src/main/res/layout/header.xml" value="0.265625" />
         <entry key="..\:/SLIIT 4th year/Reaserch/MedicalApp/app/src/main/res/drawable/custom_background.xml" value="0.21851851851851853" />
         <entry key="..\:/SLIIT 4th year/Reaserch/MedicalApp/app/src/main/res/drawable/custom_button.xml" value="0.21851851851851853" />
         <entry key="..\:/SLIIT 4th year/Reaserch/MedicalApp/app/src/main/res/drawable/custom_input.xml" value="0.20462962962962963" />

@@ -40,6 +40,8 @@ public class Suggestions extends AppCompatActivity {
     DrawerLayout drawerLayout;
     NavigationView navigationView;
     ActionBarDrawerToggle drawerToggle;
+    private Button mealplan;
+
 
     public static final String SHARED_PREFS = "shared_prefs";
 
@@ -69,6 +71,7 @@ public class Suggestions extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_suggestions);
+
         try {
 
             drawerLayout = findViewById(R.id.drawer_layout);
@@ -102,11 +105,22 @@ public class Suggestions extends AppCompatActivity {
 
                     return false;
                 }
+
+
             });
         }
         catch (Exception e){
             e.printStackTrace();
         }
+        mealplan = (Button) findViewById(R.id.btnmealplan);
+        mealplan.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Suggestions.this, Mealplan_intro.class);
+                startActivity(intent);
+            }
+        });
+
 
         sharedpreferences = getSharedPreferences(SHARED_PREFS, Context.MODE_PRIVATE);
         id = sharedpreferences.getString("id", null);
